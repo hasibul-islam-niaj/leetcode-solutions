@@ -67,6 +67,12 @@ build CMakeFiles/LeetCode_Problems.dir/problem_1_to_10/#1_two_sum/Solution.cpp.o
   OBJECT_DIR = CMakeFiles/LeetCode_Problems.dir
   OBJECT_FILE_DIR = "CMakeFiles/LeetCode_Problems.dir/problem_1_to_10/#1_two_sum"
 
+build CMakeFiles/LeetCode_Problems.dir/problem_1_to_10/#2_add_two_numbers/Solution.cpp.o: CXX_COMPILER__LeetCode_Problems_Debug /home/hasibul/CLionProjects/LeetCode$ Problems/problem_1_to_10/#2_add_two_numbers/Solution.cpp || cmake_object_order_depends_target_LeetCode_Problems
+  DEP_FILE = "CMakeFiles/LeetCode_Problems.dir/problem_1_to_10/#2_add_two_numbers/Solution.cpp.o.d"
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles/LeetCode_Problems.dir
+  OBJECT_FILE_DIR = "CMakeFiles/LeetCode_Problems.dir/problem_1_to_10/#2_add_two_numbers"
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LeetCode_Problems
@@ -75,7 +81,7 @@ build CMakeFiles/LeetCode_Problems.dir/problem_1_to_10/#1_two_sum/Solution.cpp.o
 #############################################
 # Link the executable LeetCode_Problems
 
-build LeetCode_Problems: CXX_EXECUTABLE_LINKER__LeetCode_Problems_Debug CMakeFiles/LeetCode_Problems.dir/main.cpp.o CMakeFiles/LeetCode_Problems.dir/Algos.cpp.o CMakeFiles/LeetCode_Problems.dir/problem_1_to_10/#1_two_sum/Solution.cpp.o
+build LeetCode_Problems: CXX_EXECUTABLE_LINKER__LeetCode_Problems_Debug CMakeFiles/LeetCode_Problems.dir/main.cpp.o CMakeFiles/LeetCode_Problems.dir/Algos.cpp.o CMakeFiles/LeetCode_Problems.dir/problem_1_to_10/#1_two_sum/Solution.cpp.o CMakeFiles/LeetCode_Problems.dir/problem_1_to_10/#2_add_two_numbers/Solution.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/LeetCode_Problems.dir
   POST_BUILD = :
