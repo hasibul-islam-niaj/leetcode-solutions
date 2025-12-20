@@ -1,0 +1,10 @@
+
+#ifndef LEETCODE_PROBLEMS_SOLUTION_H
+#define LEETCODE_PROBLEMS_SOLUTION_H
+
+
+class Solution {
+};
+
+
+#endif //LEETCODE_PROBLEMS_SOLUTION_H
